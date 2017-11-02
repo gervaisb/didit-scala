@@ -1,5 +1,7 @@
 # iDoneThis API, command line client
 
+**This is a legacy tool. It was suing the iDoneThis v1 Api but this one has been replaced without backward compatbility**
+
 A simple iDoneThis command line client that can list and post dones.
 
 The client is written in Scala and serves as a quick example on how one could use the iDoneThis API. It is not packaged
